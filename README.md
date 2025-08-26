@@ -1,8 +1,6 @@
-Got it! Here’s a rewritten, polished version of your **README** that keeps all the technical details but makes it cleaner, professional, and easier to follow:
 
----
 
-# Final Project 026 – Network File System (NFS)
+# Network File System (NFS)
 
 ## Overview
 
