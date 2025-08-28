@@ -1,10 +1,10 @@
 
 
-# Network File System (NFS)
+# Network File Manager (NFM)
 
 ## Overview
 
-This project implements a **distributed Network File System (NFS)** that allows seamless file access across a network.
+This project implements a **distributed Network File Manager (NFM)** that allows seamless file access across a network.
 The system is composed of three core components:
 
 * **Clients** – request file operations
